@@ -16,8 +16,13 @@ div {
 a:link{
     color: red;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
 
 p {
     color: white;
