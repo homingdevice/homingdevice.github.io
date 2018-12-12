@@ -20,12 +20,14 @@ a:link{
 }
 
 a:hover {
-  color: black;
-  background-color: transparent;
-  text-decoration: underline;
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+}
 
 p {
     color: white;
     text-align: left;
     font-family: sans-serif;
+    font-size: 14px;
 }
