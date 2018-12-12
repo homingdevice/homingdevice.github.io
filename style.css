@@ -20,19 +20,22 @@ div{
 a:link{
     color: white;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
+    font-family: sans-serif;
 }
 
 a:hover{
     color: black;
     background-color: transparent;
     text-decoration: underline;
+    font-family: sans-serif;
 }
 
 a:visited{
-    color: green;
+    color: white;
     background-color: transparent;
-    text-decoration: none;
+    text-decoration: underline;
+    font-family: sans-serif;
 }
 p, h1 {
     color: white;
