@@ -1,9 +1,9 @@
 body {
-    background-color:#39FF14;
+    background-color:red;
 }
 
 .img {
-    border: 5px solid red;
+    border: 5px solid orange;
     display: block;
     margin-left: auto;
     margin-right: auto;
