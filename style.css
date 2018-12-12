@@ -2,7 +2,7 @@ body {
     background-color:black;
 }
 
-iframe {
+.img {
     border:5px white;
     align-content: center;
 }
