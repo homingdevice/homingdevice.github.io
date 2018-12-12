@@ -2,7 +2,6 @@ body {
     background-color:#39FF14;
 }
 
-
 .img {
     border: 5px solid red;
     display: block;
@@ -18,4 +17,10 @@ a:link{
     color: red;
     background-color: transparent;
     text-decoration: underline;
+}
+
+p {
+    color: white;
+    text-align: left;
+    font-family: sans-serif;
 }
